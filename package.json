@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-aethex",
+  "version": "1.0.0",
+  "description": "The eslint configuration for Aethex.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.dvguild.tk/Aethex/eslint-config-aethex.git"
+  },
+  "author": "aemino",
+  "license": "Unlicense"
+}
